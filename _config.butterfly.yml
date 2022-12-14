@@ -1,7 +1,10 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  搜索: / || fa fa-search
+  首页: / || fa fa-home
+  归档: /archives/ || fa fa-archive
+  标签: /tags/ || fa fa-tags
+  分类: /categories/ || fa fa-folder-open
 rss: /atom.xml
 
 # Content
