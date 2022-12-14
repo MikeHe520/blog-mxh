@@ -16,7 +16,7 @@
 
 **输出流：**数据从内存(程序)到文件(数据源)的路径
 
-(https://github.com/MikeHe520/blog-mxh/blob/main/image-20221119184434638.png)
+https://github.com/MikeHe520/blog-mxh/blob/main/image-20221119184434638.png
 
 ### 1.2创建文件
 
